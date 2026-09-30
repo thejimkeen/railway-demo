@@ -1,0 +1,17 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "serve -s dist -l ${PORT:-8080}"
+  },
+  "dependencies": {
+    "serve": "^14.2.5"
+  },
+  "devDependencies": {
+    "vite": "^8.3.1"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+dist
+.playwright-mcp
+.agent-sessions
+.cursor
+.railway-ship-target
+.railway-ship.lock
+AGENTS.md
